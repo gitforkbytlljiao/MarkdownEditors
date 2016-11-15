@@ -77,6 +77,7 @@ public class MainActivity extends BaseDrawerLayoutActivity {
 
     @Override
     public void initData() {
+        Log.d("MainActivity", "has no log! just test add one");
     }
 
     @Override
